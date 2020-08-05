@@ -1,0 +1,80 @@
+.el-submenu .el-menu-item {
+    font-size: 14px;
+    padding-left: 50px !important;
+    &.is-active {
+        // background-color: rgba(255, 118, 118, 0.514) !important;
+        background-color: #525a63 !important;
+    }
+}
+
+li.el-submenu {
+    &.is-active.is-opened .el-submenu__title {
+        background-color: #30353a !important;
+    }
+}
+
+.close {
+    .el-submenu {
+        &.is-opened {
+            >.el-submenu__title {
+                background-color: #4baea0 !important;
+            }
+        }
+    }
+}
+
+.el-menu--vertical {
+    .el-menu {
+        background-color: #4baea0 !important;
+    }
+    .el-menu-item:hover {
+        background-color: #ffffff69 !important;
+    }
+}
+
+//表格样式
+div.el-table {
+    td,
+    th {
+        text-align: center;
+    }
+    th {
+        font-weight: bold;
+        color: #787f88;
+    }
+}
+
+// .el-table__header {
+//     table-layout: none;
+// }
+body .el-table th.gutter {
+    display: table-cell!important;
+}
+
+//dialog样式
+.el-dialog__body {
+    padding: 20px 47px !important;
+}
+
+.el-dialog__footer {
+    padding: 0 47px 30px 47px !important;
+}
+
+.el-textarea__inner {
+    height: 90px !important;
+}
+
+.el-image__inner {
+    width: 400px;
+    height: 300px;
+    /* ... */
+    margin: 22px;
+    display: block;
+}
+
+.el-date-editor .el-range-separator {
+    padding: 0 0px;
+    line-height: 32px;
+    width: 5%;
+    color: #303133;
+}

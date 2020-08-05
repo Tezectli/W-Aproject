@@ -1,0 +1,32 @@
+@import"./config.scss";
+@import"./normalize.scss";
+@import"./elementui.scss";
+@import"./svg.scss";
+// body {
+//     background-color: $color;
+// }
+.pull-left {
+    float: left;
+}
+
+.pull-right {
+    float: right;
+}
+
+.black-space-30 {
+    height: 30px;
+}
+
+.black-space-30-right {
+    width: 30px;
+    height: 30px;
+}
+
+.black-space-10-right {
+    width: 10;
+    height: 10;
+}
+
+.no-left-margin {
+    margin-left: 0px !important;
+}
