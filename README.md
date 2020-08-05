@@ -41,11 +41,10 @@ https://weibo.com/tv/show/1034:4534688048676881?from=old_pc_videoshow&sudaref=pa
 ## 安装运行
 
 * #### 第一步
-    * 克隆项目到本地`git clone https://github.com/Tezectli/WA-Admin.git`
+    * 克隆项目到本地`git clone https://github.com/Tezectli/W-Aproject.git`
 * #### 第二步
     * `npm install`安装依赖
 * #### 第三步
-    * 构建小程序运行服务`npm run dev:mp-weixin`
-    * 构建管理端 `npm run serve`
+    * 构建项目 `npm run serve`
 * #### 第四部
-    * 在微信小程序开发工具中预览
+    * 在浏览器中预览
