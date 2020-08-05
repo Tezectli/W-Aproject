@@ -15,7 +15,7 @@
 
 管理端：Vue + Element UI 
 ## 项目展示录屏
-https://weibo.com/tv/show/1034:4534688048676881?from=old_pc_videoshow&sudaref=passport.weibo.com
+https://f.video.weibocdn.com/000aI4vjgx07Fpa2N4mz01041204A7Qa0E020.mp4?label=mp4_1080p&template=1920x1024.25.0&trans_finger=706238e13862eac9158714b62b2988d4&media_id=4534688048676881&tp=8x8A3El:YTkl0eM8&us=0&ori=1&ctb=0&ot=h&ps=3lckmu&ab=1493-g0,540-g1,1326-g1,1192-g0,1191-g0,1046-g2,966-g1,1258-g0,878-g0,3205-g0&Expires=1596650713&ssig=ZGh3jH9OxD&KID=unistore,video
 > PC端
 #### 首页
 ![](https://s1.ax1x.com/2020/08/06/a6fOFs.md.png) 
