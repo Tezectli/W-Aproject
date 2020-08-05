@@ -14,60 +14,29 @@
 服务端：JAVA + MySql 
 
 管理端：Vue + Element UI 
-> 小程序端
-
-![](https://s1.ax1x.com/2020/05/30/tKDCPx.jpg) 
-> 管理端 
-#### 登录/注册
-![](https://s1.ax1x.com/2020/05/30/tKDVqH.jpg) 
-#### 首页 
-![](https://s1.ax1x.com/2020/05/30/tKDcw9.jpg) 
-#### 添加/编辑 
-![](https://s1.ax1x.com/2020/05/30/tKDfW6.jpg) 
-#### 更新：用户管理以及新界面UI设计
-
-用户管理首页
-![](https://s1.ax1x.com/2020/06/17/NViaBn.jpg) 
-
-用户修改
-![](https://s1.ax1x.com/2020/06/17/NVid7q.jpg) 
-
-![](https://s1.ax1x.com/2020/06/17/NVi0A0.jpg) 
-
-## 项目结构
-
-```
-WA-Admin
-├─ src
-│  ├─ api        //接口文件  
-│  ├─ icons      //svg图标
-│  ├─ main.js    //路由守卫
-│  ├─ router     //路由管理
-│  ├─ store      //Vuex与缓存设置
-│  ├─ styles     //sass公用样式
-│  ├─ utils      //js封装
-│  └─ views      //所有页面
-│     ├─ About.vue
-│     ├─ Home.vue
-│     ├─ Info
-│     │  ├─ category.vue
-│     │  ├─ dialog         //弹框组件封装
-│     │  │  └─ info.vue 
-│     │  └─ index.vue
-│     ├─ Layout
-│     │  ├─ Components     //导航顶栏，导航侧栏以及主体
-│     │  │  ├─ Header.vue
-│     │  │  ├─ Main.vue
-│     │  │  └─ Nav.vue
-│     │  └─ index.vue
-│     ├─ Login             //登录注册
-│     │  ├─ index.vue
-│     │  ├─ index2.vue
-│     │  └─ index3.vue
-│     └─ User
-│        └─ index.vue
-└─ vue.config.js
-```
+## 项目展示录屏
+https://weibo.com/tv/show/1034:4534688048676881?from=old_pc_videoshow&sudaref=passport.weibo.com
+> PC端
+#### 首页
+![](https://s1.ax1x.com/2020/08/06/a6fOFs.md.png) 
+#### 女装分类
+![](https://s1.ax1x.com/2020/08/06/a6hKmD.md.png) 
+#### 女装列表
+![](https://s1.ax1x.com/2020/08/06/a64e4s.md.png) 
+#### 男装列表
+![](https://s1.ax1x.com/2020/08/06/a64nCn.md.png) 
+#### 关于我们
+![](https://s1.ax1x.com/2020/08/06/a641DU.md.png) 
+> 后台
+#### 商品管理
+![](https://s1.ax1x.com/2020/08/06/a643bF.md.png) 
+#### 用户管理
+![](https://s1.ax1x.com/2020/08/06/a64GE4.md.png) 
+> 移动端 
+#### 男装
+![](https://s1.ax1x.com/2020/08/06/a64Y59.png) 
+#### 女装 
+![](https://s1.ax1x.com/2020/08/06/a6475j.png) 
 
 ## 安装运行
 
